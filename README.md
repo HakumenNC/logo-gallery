@@ -44,9 +44,11 @@ Available types (depends on each logo) :
 `dev` `deployment` `network`
 
 |logo|name|logo|name|logo|name|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![docker](img/docker/docker.png "docker")|`docker`|![docker-compose](img/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![kubernetes](img/kubernetes/kubernetes.png "docker-compose")|`kubernetes`|
-|![helm](img/helm/helm.png "helm")|`helm`|...|...|...|
+|:--:|:---|:--:|:---|:--:|:---|
+|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![kubernetes](img/devops/kubernetes/kubernetes.png "docker-compose")|`kubernetes`|
+|![helm](img/devops/helm/helm.png "helm")|`helm`|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|
+|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|
+|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|...|...|...|...|
 
 ### :globe_with_meridians: Others
 
