@@ -1,7 +1,11 @@
 # logo-gallery
-Dedicated to host logo for reusability
 
-:construction: WIP - Uploads and automation
+:mega: Hi there :wave: ! 
+
+This repo is on :construction: WIP for uploads and automation,
+links can be broken in futures versions, it is strongly recommended to waiting for tags :label: for safe using ! 
+
+Dedicated to host logo for reusability
 
 ## :speech_balloon: Description
 
@@ -17,11 +21,18 @@ Available types (depends on each logo) :
 * `logo only`
 * `text only`
 
-## Logos
+## :sparkles: Logos
 
 ### :framed_picture: Frontend
 
 `front` `ui` `ux` `web` `forms` `interface`
+
+|logo|name|logo|name|logo|name|
+|:--:|:---|:--:|:---|:--:|:---|
+|![angular](img/frontend/angular/angular.png "angular")|`angular`|![angularjs](img/frontend/angularjs/angularjs.png "angularjs")|`angularjs`|![css3](img/frontend/css3/css3.png "css3")|`css3`|![css3](img/frontend/css3/css3.png "css3")|`css3`|
+|![html](img/frontend/html/html.png "html")|`html`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|![react](img/frontend/react/react.png "react")|`react`|![react](img/frontend/react/react.png "react")|`react`|
+|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![sass](img/frontend/sass/sass.png "sass")|`sass`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|
+|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|...|...|...|...|
 
 ### :gear: Backend
 
@@ -57,7 +68,7 @@ Available types (depends on each logo) :
 
 **Deprecated**
 
-URL links will be removed in next versions
+URL links will be removed in next versions, please use logos in above sections.
 
 ![docker](img/docker/docker.png "docker")
 ![docker-compose](img/docker-compose/docker-compose.png "docker-compose")

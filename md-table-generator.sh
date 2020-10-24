@@ -10,12 +10,13 @@
 
 # target folder path, ex : "img/devops"
 # current dir : ${PWD##*/}
-PATH="img/devops"
+PATH="img/frontend"
 
 # output .md file
 OUTPUT="./table.md"
 
 LINE=""
+NB_COLS=3
 FOLDERS=0
 I=0
 J=0
@@ -45,7 +46,7 @@ for d in $PATH/*/ ; do
 
     LINE="$LINE|$ITEM"
 
-    if [ "$J" -eq 3 ]
+    if [ "$J" -eq "$NB_COLS" ]
     then
         echo "$LINE|$ITEM|"
         echo "$LINE|$ITEM|" >> $OUTPUT
@@ -56,9 +57,9 @@ for d in $PATH/*/ ; do
     I=$((I+1))
     
     # in case in not completed last line
-    if [ "$I" -eq "$FOLDERS" -a "$J" -lt 3 -a "$J" -gt 0 ]
+    if [ "$I" -eq "$FOLDERS" -a "$J" -lt "$NB_COLS" -a "$J" -gt 0 ]
     then
-        while [ "$J" -lt 3 ]
+        while [ "$J" -lt "$NB_COLS" ]
         do
             LINE="$LINE|...|..."
             J=$((J+1))
