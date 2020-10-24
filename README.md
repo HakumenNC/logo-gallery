@@ -41,7 +41,8 @@ Available types (depends on each logo) :
 
 ### :rocket: DevOps
 
-`dev` `deployment` `network`
+`dev` `deployment` `network` `container` `pod` `infrastructure`
+`ci` `cd`
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
