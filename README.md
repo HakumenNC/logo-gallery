@@ -46,10 +46,10 @@ Available types (depends on each logo) :
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
-|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![kubernetes](img/devops/kubernetes/kubernetes.png "docker-compose")|`kubernetes`|
-|![helm](img/devops/helm/helm.png "helm")|`helm`|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|
-|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|
-|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|...|...|...|...|
+|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|
+|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![helm](img/devops/helm/helm.png "helm")|`helm`|![helm](img/devops/helm/helm.png "helm")|`helm`|
+|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|
+|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|...|...|...|...|
 
 ### :globe_with_meridians: Others
 
