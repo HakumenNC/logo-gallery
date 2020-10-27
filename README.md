@@ -30,10 +30,13 @@ Available types (depends on each logo) :
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![angular](img/frontend/angular/angular.png "angular")|`angular`|![angularjs](img/frontend/angularjs/angularjs.png "angularjs")|`angularjs`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|
-|![css3](img/frontend/css3/css3.png "css3")|`css3`|![dart](img/frontend/dart/dart.png "dart")|`dart`|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|
+|![bower](img/frontend/bower/bower.png "bower")|`bower`|![css3](img/frontend/css3/css3.png "css3")|`css3`|![dart](img/frontend/dart/dart.png "dart")|`dart`|![dart](img/frontend/dart/dart.png "dart")|`dart`|
+|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|
 |![html5](img/frontend/html5/html5.png "html5")|`html5`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|
-|![ml5js](img/frontend/ml5js/ml5js.png "ml5js")|`ml5js`|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|
-|![sass](img/frontend/sass/sass.png "sass")|`sass`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|
+|![ml5js](img/frontend/ml5js/ml5js.png "ml5js")|`ml5js`|![nodejs](img/frontend/nodejs/nodejs.png "nodejs")|`nodejs`|![npm](img/frontend/npm/npm.png "npm")|`npm`|![npm](img/frontend/npm/npm.png "npm")|`npm`|
+|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![sass](img/frontend/sass/sass.png "sass")|`sass`|![sass](img/frontend/sass/sass.png "sass")|`sass`|
+|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|...|...|
+
 
 
 ### :gear: Backend
@@ -49,16 +52,17 @@ Available types (depends on each logo) :
 
 ### :iphone: Mobile
 
-`apps` `phone` `smart` `iphone`
+`apps` `phone` `smart` `iphone` `store`
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
-|![android](img/mobile/android/android.png "android")|`android`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|![flutter](img/mobile/flutter/flutter.png "flutter")|`flutter`|![flutter](img/mobile/flutter/flutter.png "flutter")|`flutter`|
-|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|![ios](img/mobile/ios/ios.png "ios")|`ios`|![swift](img/mobile/swift/swift.png "swift")|`swift`|![swift](img/mobile/swift/swift.png "swift")|`swift`|
+|![android](img/mobile/android/android.png "android")|`android`|![app-store](img/mobile/app-store/app-store.png "app-store")|`app-store`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|
+|![flutter](img/mobile/flutter/flutter.png "flutter")|`flutter`|![google-play](img/mobile/google-play/google-play.png "google-play")|`google-play`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|
+|![ios](img/mobile/ios/ios.png "ios")|`ios`|![swift](img/mobile/swift/swift.png "swift")|`swift`|...|...|
 
 ### :date: Database
 
-`data` `table`
+`data` `table` `index`
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
@@ -73,14 +77,16 @@ Available types (depends on each logo) :
 ### :rocket: DevOps
 
 `dev` `deployment` `network` `container` `pod` `infrastructure`
-`ci` `cd`
+`ci` `cd` `pipeline`
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker](img/devops/docker/docker.png "docker")|`docker`|
 |![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|
 |![helm](img/devops/helm/helm.png "helm")|`helm`|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|
-|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|
+|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|
+|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|...|...|...|...|
+
 
 
 ### :globe_with_meridians: Others
