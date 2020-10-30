@@ -72,7 +72,15 @@ Available types (depends on each logo) :
 
 ### :hammer_and_wrench: Tools
 
-`ide` `software` `application`
+`ide` `software` `application` `cli`
+
+|logo|name|logo|name|logo|name|
+|:--:|:---|:--:|:---|:--:|:---|
+|![androidstudio](img/tools/androidstudio/androidstudio.png "androidstudio")|`androidstudio`|![atom](img/tools/atom/atom.png "atom")|`atom`|![bash](img/tools/bash/bash.png "bash")|`bash`|![bash](img/tools/bash/bash.png "bash")|`bash`|
+|![git](img/tools/git/git.png "git")|`git`|![github](img/tools/github/github.png "github")|`github`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|
+|![intellij](img/tools/intellij/intellij.png "intellij")|`intellij`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|![vim](img/tools/vim/vim.png "vim")|`vim`|![vim](img/tools/vim/vim.png "vim")|`vim`|
+|![virtualbox](img/tools/virtualbox/virtualbox.png "virtualbox")|`virtualbox`|![vscode](img/tools/vscode/vscode.png "vscode")|`vscode`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|
+
 
 ### :rocket: DevOps
 
@@ -81,9 +89,10 @@ Available types (depends on each logo) :
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
-|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker](img/devops/docker/docker.png "docker")|`docker`|
-|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|
-|![helm](img/devops/helm/helm.png "helm")|`helm`|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|
+|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![artifactory](img/devops/artifactory/artifactory.png "artifactory")|`artifactory`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|
+|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|
+|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![harbor](img/devops/harbor/harbor.png "harbor")|`harbor`|![helm](img/devops/helm/helm.png "helm")|`helm`|![helm](img/devops/helm/helm.png "helm")|`helm`|
+|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![nexus](img/devops/nexus/nexus.png "nexus")|`nexus`|![nexus](img/devops/nexus/nexus.png "nexus")|`nexus`|
 |![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|
 |![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|...|...|...|...|
 
