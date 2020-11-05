@@ -31,11 +31,12 @@ Available types (depends on each logo) :
 |:--:|:---|:--:|:---|:--:|:---|
 |![angular](img/frontend/angular/angular.png "angular")|`angular`|![angularjs](img/frontend/angularjs/angularjs.png "angularjs")|`angularjs`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|
 |![bower](img/frontend/bower/bower.png "bower")|`bower`|![css3](img/frontend/css3/css3.png "css3")|`css3`|![dart](img/frontend/dart/dart.png "dart")|`dart`|![dart](img/frontend/dart/dart.png "dart")|`dart`|
-|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|
-|![html5](img/frontend/html5/html5.png "html5")|`html5`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|
-|![ml5js](img/frontend/ml5js/ml5js.png "ml5js")|`ml5js`|![nodejs](img/frontend/nodejs/nodejs.png "nodejs")|`nodejs`|![npm](img/frontend/npm/npm.png "npm")|`npm`|![npm](img/frontend/npm/npm.png "npm")|`npm`|
-|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![sass](img/frontend/sass/sass.png "sass")|`sass`|![sass](img/frontend/sass/sass.png "sass")|`sass`|
-|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|...|...|
+|![django](img/frontend/django/django.png "django")|`django`|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|
+|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|![html5](img/frontend/html5/html5.png "html5")|`html5`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|
+|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|![ml5js](img/frontend/ml5js/ml5js.png "ml5js")|`ml5js`|![ngrx](img/frontend/ngrx/ngrx.png "ngrx")|`ngrx`|![ngrx](img/frontend/ngrx/ngrx.png "ngrx")|`ngrx`|
+|![nodejs](img/frontend/nodejs/nodejs.png "nodejs")|`nodejs`|![npm](img/frontend/npm/npm.png "npm")|`npm`|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|
+|![rails](img/frontend/rails/rails.png "rails")|`rails`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![redux](img/frontend/redux/redux.png "redux")|`redux`|![redux](img/frontend/redux/redux.png "redux")|`redux`|
+|![sass](img/frontend/sass/sass.png "sass")|`sass`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|
 
 
 
@@ -47,7 +48,8 @@ Available types (depends on each logo) :
 |:--:|:---|:--:|:---|:--:|:---|
 |![go](img/backend/go/go.png "go")|`go`|![gradle](img/backend/gradle/gradle.png "gradle")|`gradle`|![graphql](img/backend/graphql/graphql.png "graphql")|`graphql`|![graphql](img/backend/graphql/graphql.png "graphql")|`graphql`|
 |![java](img/backend/java/java.png "java")|`java`|![kafka](img/backend/kafka/kafka.png "kafka")|`kafka`|![kotlin](img/backend/kotlin/kotlin.png "kotlin")|`kotlin`|![kotlin](img/backend/kotlin/kotlin.png "kotlin")|`kotlin`|
-|![maven](img/backend/maven/maven.png "maven")|`maven`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|![spring](img/backend/spring/spring.png "spring")|`spring`|![spring](img/backend/spring/spring.png "spring")|`spring`|
+|![maven](img/backend/maven/maven.png "maven")|`maven`|![python](img/backend/python/python.png "python")|`python`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|
+|![ruby](img/backend/ruby/ruby.png "ruby")|`ruby`|![spring](img/backend/spring/spring.png "spring")|`spring`|...|...|
 
 
 ### :iphone: Mobile
@@ -77,9 +79,13 @@ Available types (depends on each logo) :
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![androidstudio](img/tools/androidstudio/androidstudio.png "androidstudio")|`androidstudio`|![atom](img/tools/atom/atom.png "atom")|`atom`|![bash](img/tools/bash/bash.png "bash")|`bash`|![bash](img/tools/bash/bash.png "bash")|`bash`|
-|![git](img/tools/git/git.png "git")|`git`|![github](img/tools/github/github.png "github")|`github`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|
-|![intellij](img/tools/intellij/intellij.png "intellij")|`intellij`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|![vim](img/tools/vim/vim.png "vim")|`vim`|![vim](img/tools/vim/vim.png "vim")|`vim`|
+|![firebase](img/tools/firebase/firebase.png "firebase")|`firebase`|![git](img/tools/git/git.png "git")|`git`|![github](img/tools/github/github.png "github")|`github`|![github](img/tools/github/github.png "github")|`github`|
+|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|![intellij](img/tools/intellij/intellij.png "intellij")|`intellij`|![kibana](img/tools/kibana/kibana.png "kibana")|`kibana`|![kibana](img/tools/kibana/kibana.png "kibana")|`kibana`|
+|![logstash](img/tools/logstash/logstash.png "logstash")|`logstash`|![mattermost](img/tools/mattermost/mattermost.png "mattermost")|`mattermost`|![notepad++](img/tools/notepad++/notepad++.png "notepad++")|`notepad++`|![notepad++](img/tools/notepad++/notepad++.png "notepad++")|`notepad++`|
+|![postman](img/tools/postman/postman.png "postman")|`postman`|![rocketchat](img/tools/rocketchat/rocketchat.png "rocketchat")|`rocketchat`|![slack](img/tools/slack/slack.png "slack")|`slack`|![slack](img/tools/slack/slack.png "slack")|`slack`|
+|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|![swagger](img/tools/swagger/swagger.png "swagger")|`swagger`|![vim](img/tools/vim/vim.png "vim")|`vim`|![vim](img/tools/vim/vim.png "vim")|`vim`|
 |![virtualbox](img/tools/virtualbox/virtualbox.png "virtualbox")|`virtualbox`|![vscode](img/tools/vscode/vscode.png "vscode")|`vscode`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|
+
 
 
 ### :rocket: DevOps
