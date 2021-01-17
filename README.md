@@ -42,7 +42,7 @@ Available types (depends on each logo) :
 
 #### Square
 
-|||||||
+|logo|logo|logo|logo|logo|logo|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |![angular](square/frontend//angular.png "angular")|![angularjs](square/frontend//angularjs.png "angularjs")|![bootstrap](square/frontend//bootstrap.png "bootstrap")|![bower](square/frontend//bower.png "bower")|![css3](square/frontend//css3.png "css3")|![dart](square/frontend//dart.png "dart")|![dart](square/frontend//dart.png "dart")|
 |![django](square/frontend//django.png "django")|![emberjs](square/frontend//emberjs.png "emberjs")|![grunt](square/frontend//grunt.png "grunt")|![gulpjs](square/frontend//gulpjs.png "gulpjs")|![html5](square/frontend//html5.png "html5")|![javascript](square/frontend//javascript.png "javascript")|![javascript](square/frontend//javascript.png "javascript")|
@@ -65,7 +65,7 @@ Available types (depends on each logo) :
 
 #### Square
 
-|||||||
+|logo|logo|logo|logo|logo|logo|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |![go](square/backend//go.png "go")|![gradle](square/backend//gradle.png "gradle")|![graphql](square/backend//graphql.png "graphql")|![java](square/backend//java.png "java")|![kafka](square/backend//kafka.png "kafka")|![kotlin](square/backend//kotlin.png "kotlin")|![kotlin](square/backend//kotlin.png "kotlin")|
 |![maven](square/backend//maven.png "maven")|![python](square/backend//python.png "python")|![rabbitmq](square/backend//rabbitmq.png "rabbitmq")|![ruby](square/backend//ruby.png "ruby")|![spring](square/backend//spring.png "spring")|...|...|
@@ -84,7 +84,7 @@ Available types (depends on each logo) :
 
 #### Square
 
-|||||||
+|logo|logo|logo|logo|logo|logo|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |![android](square/mobile//android.png "android")|![app-store](square/mobile//app-store.png "app-store")|![cordova](square/mobile//cordova.png "cordova")|![flutter](square/mobile//flutter.png "flutter")|![google-play](square/mobile//google-play.png "google-play")|![ionic](square/mobile//ionic.png "ionic")|![ionic](square/mobile//ionic.png "ionic")|
 |![ios](square/mobile//ios.png "ios")|![swift](square/mobile//swift.png "swift")|...|...|...|...|...|...|...|...|
@@ -93,12 +93,21 @@ Available types (depends on each logo) :
 
 `data` `table` `index`
 
+#### Logo
+
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![couchdb](img/database/couchdb/couchdb.png "couchdb")|`couchdb`|![elasticsearch](img/database/elasticsearch/elasticsearch.png "elasticsearch")|`elasticsearch`|![h2](img/database/h2/h2.png "h2")|`h2`|![h2](img/database/h2/h2.png "h2")|`h2`|
 |![mariadb](img/database/mariadb/mariadb.png "mariadb")|`mariadb`|![mongodb](img/database/mongodb/mongodb.png "mongodb")|`mongodb`|![mysql](img/database/mysql/mysql.png "mysql")|`mysql`|![mysql](img/database/mysql/mysql.png "mysql")|`mysql`|
 |![oracle](img/database/oracle/oracle.png "oracle")|`oracle`|![postgresql](img/database/postgresql/postgresql.png "postgresql")|`postgresql`|![sqlite](img/database/sqlite/sqlite.png "sqlite")|`sqlite`|![sqlite](img/database/sqlite/sqlite.png "sqlite")|`sqlite`|
 |![sqlserver](img/database/sqlserver/sqlserver.png "sqlserver")|`sqlserver`|...|...|...|...|
+
+#### Square
+
+|logo|logo|logo|logo|logo|logo|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![couchdb](square/database//couchdb.png "couchdb")|![elasticsearch](square/database//elasticsearch.png "elasticsearch")|![h2](square/database//h2.png "h2")|![mangodb](square/database//mangodb.png "mangodb")|![mariadb](square/database//mariadb.png "mariadb")|![mysql](square/database//mysql.png "mysql")|![mysql](square/database//mysql.png "mysql")|
+|![oracle](square/database//oracle.png "oracle")|![postgresql](square/database//postgresql.png "postgresql")|![sqlite](square/database//sqlite.png "sqlite")|![sqlserver](square/database//sqlserver.png "sqlserver")|...|...|...|...|
 
 ### :hammer_and_wrench: Tools
 

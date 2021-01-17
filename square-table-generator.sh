@@ -10,7 +10,7 @@
 
 # target folder path, ex : "img/devops"
 # current dir : ${PWD##*/}
-PATH="square/mobile/"
+PATH="square/database/"
 
 # output .md file
 OUTPUT="./square-table.md"
@@ -24,7 +24,7 @@ J=0
 #### MAIN
 
 # header
-echo "|||||||" > $OUTPUT
+echo "|logo|logo|logo|logo|logo|logo|" > $OUTPUT
 echo "|:--:|:--:|:--:|:--:|:--:|:--:|" >> $OUTPUT
 
 # count folders
