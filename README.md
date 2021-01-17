@@ -27,6 +27,8 @@ Available types (depends on each logo) :
 
 `front` `ui` `ux` `web` `forms` `interface`
 
+#### Logo
+
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![angular](img/frontend/angular/angular.png "angular")|`angular`|![angularjs](img/frontend/angularjs/angularjs.png "angularjs")|`angularjs`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|
@@ -38,9 +40,21 @@ Available types (depends on each logo) :
 |![rails](img/frontend/rails/rails.png "rails")|`rails`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![redux](img/frontend/redux/redux.png "redux")|`redux`|![redux](img/frontend/redux/redux.png "redux")|`redux`|
 |![sass](img/frontend/sass/sass.png "sass")|`sass`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|
 
+#### Square
+
+|||||||
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![angular](square/frontend//angular.png "angular")|![angularjs](square/frontend//angularjs.png "angularjs")|![bootstrap](square/frontend//bootstrap.png "bootstrap")|![bower](square/frontend//bower.png "bower")|![css3](square/frontend//css3.png "css3")|![dart](square/frontend//dart.png "dart")|![dart](square/frontend//dart.png "dart")|
+|![django](square/frontend//django.png "django")|![emberjs](square/frontend//emberjs.png "emberjs")|![grunt](square/frontend//grunt.png "grunt")|![gulpjs](square/frontend//gulpjs.png "gulpjs")|![html5](square/frontend//html5.png "html5")|![javascript](square/frontend//javascript.png "javascript")|![javascript](square/frontend//javascript.png "javascript")|
+|![materializecss](square/frontend//materializecss.png "materializecss")|![ml5js](square/frontend//ml5js.png "ml5js")|![ngrx](square/frontend//ngrx.png "ngrx")|![nodejs](square/frontend//nodejs.png "nodejs")|![npm](square/frontend//npm.png "npm")|![p5js](square/frontend//p5js.png "p5js")|![p5js](square/frontend//p5js.png "p5js")|
+|![rails](square/frontend//rails.png "rails")|![reactjs](square/frontend//reactjs.png "reactjs")|![redux](square/frontend//redux.png "redux")|![sass](square/frontend//sass.png "sass")|![typescript](square/frontend//typescript.png "typescript")|![vuejs](square/frontend//vuejs.png "vuejs")|![vuejs](square/frontend//vuejs.png "vuejs")|
+|![yarn](square/frontend//yarn.png "yarn")|...|...|...|...|...|...|...|...|...|...|
+
 ### :gear: Backend
 
 `back` `job` `api`
+
+#### Logo
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
@@ -49,15 +63,31 @@ Available types (depends on each logo) :
 |![maven](img/backend/maven/maven.png "maven")|`maven`|![python](img/backend/python/python.png "python")|`python`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|
 |![ruby](img/backend/ruby/ruby.png "ruby")|`ruby`|![spring](img/backend/spring/spring.png "spring")|`spring`|...|...|
 
+#### Square
+
+|||||||
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![go](square/backend//go.png "go")|![gradle](square/backend//gradle.png "gradle")|![graphql](square/backend//graphql.png "graphql")|![java](square/backend//java.png "java")|![kafka](square/backend//kafka.png "kafka")|![kotlin](square/backend//kotlin.png "kotlin")|![kotlin](square/backend//kotlin.png "kotlin")|
+|![maven](square/backend//maven.png "maven")|![python](square/backend//python.png "python")|![rabbitmq](square/backend//rabbitmq.png "rabbitmq")|![ruby](square/backend//ruby.png "ruby")|![spring](square/backend//spring.png "spring")|...|...|
+
 ### :iphone: Mobile
 
 `apps` `phone` `smart` `iphone` `store`
+
+#### Logo
 
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![android](img/mobile/android/android.png "android")|`android`|![app-store](img/mobile/app-store/app-store.png "app-store")|`app-store`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|
 |![flutter](img/mobile/flutter/flutter.png "flutter")|`flutter`|![google-play](img/mobile/google-play/google-play.png "google-play")|`google-play`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|
 |![ios](img/mobile/ios/ios.png "ios")|`ios`|![swift](img/mobile/swift/swift.png "swift")|`swift`|...|...|
+
+#### Square
+
+|||||||
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![android](square/mobile//android.png "android")|![app-store](square/mobile//app-store.png "app-store")|![cordova](square/mobile//cordova.png "cordova")|![flutter](square/mobile//flutter.png "flutter")|![google-play](square/mobile//google-play.png "google-play")|![ionic](square/mobile//ionic.png "ionic")|![ionic](square/mobile//ionic.png "ionic")|
+|![ios](square/mobile//ios.png "ios")|![swift](square/mobile//swift.png "swift")|...|...|...|...|...|...|...|...|
 
 ### :date: Database
 
