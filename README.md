@@ -113,6 +113,8 @@ Available types (depends on each logo) :
 
 `ide` `software` `application` `cli`
 
+#### Logo
+
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![androidstudio](img/tools/androidstudio/androidstudio.png "androidstudio")|`androidstudio`|![atom](img/tools/atom/atom.png "atom")|`atom`|![bash](img/tools/bash/bash.png "bash")|`bash`|![bash](img/tools/bash/bash.png "bash")|`bash`|
@@ -125,6 +127,18 @@ Available types (depends on each logo) :
 |![rocketchat](img/tools/rocketchat/rocketchat.png "rocketchat")|`rocketchat`|![slack](img/tools/slack/slack.png "slack")|`slack`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|
 |![swagger](img/tools/swagger/swagger.png "swagger")|`swagger`|![unity](img/tools/unity/unity.png "unity")|`unity`|![vim](img/tools/vim/vim.png "vim")|`vim`|![vim](img/tools/vim/vim.png "vim")|`vim`|
 |![virtualbox](img/tools/virtualbox/virtualbox.png "virtualbox")|`virtualbox`|![vscode](img/tools/vscode/vscode.png "vscode")|`vscode`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|
+
+#### Square
+
+|logo|logo|logo|logo|logo|logo|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![androidstudio](square/tools//androidstudio.png "androidstudio")|![atom](square/tools//atom.png "atom")|![bash](square/tools//bash.png "bash")|![blender](square/tools//blender.png "blender")|![datagrip](square/tools//datagrip.png "datagrip")|![datastudio](square/tools//datastudio.png "datastudio")|![datastudio](square/tools//datastudio.png "datastudio")|
+|![dbeaver](square/tools//dbeaver.png "dbeaver")|![firebase](square/tools//firebase.png "firebase")|![gimp](square/tools//gimp.png "gimp")|![git](square/tools//git.png "git")|![github](square/tools//github.png "github")|![gitlab](square/tools//gitlab.png "gitlab")|![gitlab](square/tools//gitlab.png "gitlab")|
+|![illustrator](square/tools//illustrator.png "illustrator")|![intellij](square/tools//intellij.png "intellij")|![kibana](square/tools//kibana.png "kibana")|![linkedin](square/tools//linkedin.png "linkedin")|![logstash](square/tools//logstash.png "logstash")|![mattermost](square/tools//mattermost.png "mattermost")|![mattermost](square/tools//mattermost.png "mattermost")|
+|![notepad++](square/tools//notepad++.png "notepad++")|![photoshop](square/tools//photoshop.png "photoshop")|![postman](square/tools//postman.png "postman")|![powerbi](square/tools//powerbi.png "powerbi")|![rocketchat](square/tools//rocketchat.png "rocketchat")|![slack](square/tools//slack.png "slack")|![slack](square/tools//slack.png "slack")|
+|![sublimetext](square/tools//sublimetext.png "sublimetext")|![swagger](square/tools//swagger.png "swagger")|![unity](square/tools//unity.png "unity")|![vim](square/tools//vim.png "vim")|![virtualbox](square/tools//virtualbox.png "virtualbox")|![vscode](square/tools//vscode.png "vscode")|![vscode](square/tools//vscode.png "vscode")|
+|![webstorm](square/tools//webstorm.png "webstorm")|...|...|...|...|...|...|...|...|...|...|
+
 
 ### :rocket: DevOps
 
