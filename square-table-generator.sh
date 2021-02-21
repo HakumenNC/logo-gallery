@@ -10,7 +10,7 @@
 
 # target folder path, ex : "img/devops"
 # current dir : ${PWD##*/}
-PATH="square/database/"
+PATH="square/devops/"
 
 # output .md file
 OUTPUT="./square-table.md"

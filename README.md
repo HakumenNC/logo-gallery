@@ -145,6 +145,8 @@ Available types (depends on each logo) :
 `dev` `deployment` `network` `container` `pod` `infrastructure`
 `ci` `cd` `pipeline`
 
+#### Logo
+
 |logo|name|logo|name|logo|name|
 |:--:|:---|:--:|:---|:--:|:---|
 |![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![artifactory](img/devops/artifactory/artifactory.png "artifactory")|`artifactory`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|
@@ -153,6 +155,15 @@ Available types (depends on each logo) :
 |![heroku](img/devops/heroku/heroku.png "heroku")|`heroku`|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|
 |![nexus](img/devops/nexus/nexus.png "nexus")|`nexus`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|
 |![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|...|...|
+
+#### Square
+
+|logo|logo|logo|logo|logo|logo|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![ansible](square/devops//ansible.png "ansible")|![artifactory](square/devops//artifactory.png "artifactory")|![circleci](square/devops//circleci.png "circleci")|![docker](square/devops//docker.png "docker")|![docker-compose](square/devops//docker-compose.png "docker-compose")|![github-actions](square/devops//github-actions.png "github-actions")|![github-actions](square/devops//github-actions.png "github-actions")|
+|![gitlab-cicd](square/devops//gitlab-cicd.png "gitlab-cicd")|![harbor](square/devops//harbor.png "harbor")|![helm](square/devops//helm.png "helm")|![heroku](square/devops//heroku.png "heroku")|![jenkins](square/devops//jenkins.png "jenkins")|![kubernetes](square/devops//kubernetes.png "kubernetes")|![kubernetes](square/devops//kubernetes.png "kubernetes")|
+|![nexus](square/devops//nexus.png "nexus")|![saltstack](square/devops//saltstack.png "saltstack")|![tanzu](square/devops//tanzu.png "tanzu")|![travis-ci](square/devops//travis-ci.png "travis-ci")|![vagrant](square/devops//vagrant.png "vagrant")|...|...|
+
 
 ### :globe_with_meridians: Others
 
