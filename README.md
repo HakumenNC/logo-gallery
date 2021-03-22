@@ -23,154 +23,36 @@ Available types (depends on each logo) :
 
 ## :sparkles: Logos
 
-### :framed_picture: Frontend
+|logo|name|logo|name|logo|name|logo|name|
+|:--:|:---|:--:|:---|:--:|:---|:--:|:---|
+|![android](./img/a/android/square-1-60.png "android")|`android`|![androidstudio](./img/a/androidstudio/square-1-60.png "androidstudio")|`androidstudio`|![angular](./img/a/angular/square-1-60.png "angular")|`angular`|![angularjs](./img/a/angularjs/square-1-60.png "angularjs")|`angularjs`|![angularjs](./img/a/angularjs/square-1-60.png "angularjs")|`angularjs`|
+|![ansible](./img/a/ansible/square-1-60.png "ansible")|`ansible`|![app-store](./img/a/app-store/square-1-60.png "app-store")|`app-store`|![artifactory](./img/a/artifactory/square-1-60.png "artifactory")|`artifactory`|![atom](./img/a/atom/square-1-60.png "atom")|`atom`|![atom](./img/a/atom/square-1-60.png "atom")|`atom`|
+|![aws](./img/a/aws/square-1-60.png "aws")|`aws`|![azure](./img/a/azure/square-1-60.png "azure")|`azure`|![bash](./img/b/bash/square-1-60.png "bash")|`bash`|![blender](./img/b/blender/square-1-60.png "blender")|`blender`|![blender](./img/b/blender/square-1-60.png "blender")|`blender`|
+|![bootstrap](./img/b/bootstrap/square-1-60.png "bootstrap")|`bootstrap`|![bower](./img/b/bower/square-1-60.png "bower")|`bower`|![circleci](./img/c/circleci/square-1-60.png "circleci")|`circleci`|![cordova](./img/c/cordova/square-1-60.png "cordova")|`cordova`|![cordova](./img/c/cordova/square-1-60.png "cordova")|`cordova`|
+|![couchdb](./img/c/couchdb/square-1-60.png "couchdb")|`couchdb`|![css3](./img/c/css3/square-1-60.png "css3")|`css3`|![dart](./img/d/dart/square-1-60.png "dart")|`dart`|![datagrip](./img/d/datagrip/square-1-60.png "datagrip")|`datagrip`|![datagrip](./img/d/datagrip/square-1-60.png "datagrip")|`datagrip`|
+|![datastudio](./img/d/datastudio/square-1-60.png "datastudio")|`datastudio`|![dbeaver](./img/d/dbeaver/square-1-60.png "dbeaver")|`dbeaver`|![django](./img/d/django/square-1-60.png "django")|`django`|![docker](./img/d/docker/square-1-60.png "docker")|`docker`|![docker](./img/d/docker/square-1-60.png "docker")|`docker`|
+|![docker-compose](./img/d/docker-compose/square-1-60.png "docker-compose")|`docker-compose`|![elasticsearch](./img/e/elasticsearch/square-1-60.png "elasticsearch")|`elasticsearch`|![emberjs](./img/e/emberjs/square-1-60.png "emberjs")|`emberjs`|![firebase](./img/f/firebase/square-1-60.png "firebase")|`firebase`|![firebase](./img/f/firebase/square-1-60.png "firebase")|`firebase`|
+|![flutter](./img/f/flutter/square-1-60.png "flutter")|`flutter`|![gimp](./img/g/gimp/square-1-60.png "gimp")|`gimp`|![git](./img/g/git/square-1-60.png "git")|`git`|![github](./img/g/github/square-1-60.png "github")|`github`|![github](./img/g/github/square-1-60.png "github")|`github`|
+|![github-actions](./img/g/github-actions/square-1-60.png "github-actions")|`github-actions`|![gitlab](./img/g/gitlab/square-1-60.png "gitlab")|`gitlab`|![gitlab-cicd](./img/g/gitlab-cicd/square-1-60.png "gitlab-cicd")|`gitlab-cicd`|![go](./img/g/go/square-1-60.png "go")|`go`|![go](./img/g/go/square-1-60.png "go")|`go`|
+|![google-play](./img/g/google-play/square-1-60.png "google-play")|`google-play`|![googlecloud](./img/g/googlecloud/square-1-60.png "googlecloud")|`googlecloud`|![gradle](./img/g/gradle/square-1-60.png "gradle")|`gradle`|![graphql](./img/g/graphql/square-1-60.png "graphql")|`graphql`|![graphql](./img/g/graphql/square-1-60.png "graphql")|`graphql`|
+|![grunt](./img/g/grunt/square-1-60.png "grunt")|`grunt`|![gulpjs](./img/g/gulpjs/square-1-60.png "gulpjs")|`gulpjs`|![h2](./img/h/h2/square-1-60.png "h2")|`h2`|![harbor](./img/h/harbor/square-1-60.png "harbor")|`harbor`|![harbor](./img/h/harbor/square-1-60.png "harbor")|`harbor`|
+|![helm](./img/h/helm/square-1-60.png "helm")|`helm`|![heroku](./img/h/heroku/square-1-60.png "heroku")|`heroku`|![html5](./img/h/html5/square-1-60.png "html5")|`html5`|![icloud](./img/i/icloud/square-1-60.png "icloud")|`icloud`|![icloud](./img/i/icloud/square-1-60.png "icloud")|`icloud`|
+|![illustrator](./img/i/illustrator/square-1-60.png "illustrator")|`illustrator`|![intellij](./img/i/intellij/square-1-60.png "intellij")|`intellij`|![ionic](./img/i/ionic/square-1-60.png "ionic")|`ionic`|![ios](./img/i/ios/square-1-60.png "ios")|`ios`|![ios](./img/i/ios/square-1-60.png "ios")|`ios`|
+|![java](./img/j/java/square-1-60.png "java")|`java`|![javascript](./img/j/javascript/square-1-60.png "javascript")|`javascript`|![jenkins](./img/j/jenkins/square-1-60.png "jenkins")|`jenkins`|![kafka](./img/k/kafka/square-1-60.png "kafka")|`kafka`|![kafka](./img/k/kafka/square-1-60.png "kafka")|`kafka`|
+|![kibana](./img/k/kibana/square-1-60.png "kibana")|`kibana`|![kotlin](./img/k/kotlin/square-1-60.png "kotlin")|`kotlin`|![kubernetes](./img/k/kubernetes/square-1-60.png "kubernetes")|`kubernetes`|![linkedin](./img/l/linkedin/square-1-60.png "linkedin")|`linkedin`|![linkedin](./img/l/linkedin/square-1-60.png "linkedin")|`linkedin`|
+|![logstash](./img/l/logstash/square-1-60.png "logstash")|`logstash`|![mariadb](./img/m/mariadb/square-1-60.png "mariadb")|`mariadb`|![materializecss](./img/m/materializecss/square-1-60.png "materializecss")|`materializecss`|![mattermost](./img/m/mattermost/square-1-60.png "mattermost")|`mattermost`|![mattermost](./img/m/mattermost/square-1-60.png "mattermost")|`mattermost`|
+|![maven](./img/m/maven/square-1-60.png "maven")|`maven`|![ml5js](./img/m/ml5js/square-1-60.png "ml5js")|`ml5js`|![mongodb](./img/m/mongodb/square-1-60.png "mongodb")|`mongodb`|![mysql](./img/m/mysql/square-1-60.png "mysql")|`mysql`|![mysql](./img/m/mysql/square-1-60.png "mysql")|`mysql`|
+|![nexus](./img/n/nexus/square-1-60.png "nexus")|`nexus`|![ngrx](./img/n/ngrx/square-1-60.png "ngrx")|`ngrx`|![nodejs](./img/n/nodejs/square-1-60.png "nodejs")|`nodejs`|![notepad++](./img/n/notepad++/square-1-60.png "notepad++")|`notepad++`|![notepad++](./img/n/notepad++/square-1-60.png "notepad++")|`notepad++`|
+|![npm](./img/n/npm/square-1-60.png "npm")|`npm`|![oracle](./img/o/oracle/square-1-60.png "oracle")|`oracle`|![p5js](./img/p/p5js/square-1-60.png "p5js")|`p5js`|![photoshop](./img/p/photoshop/square-1-60.png "photoshop")|`photoshop`|![photoshop](./img/p/photoshop/square-1-60.png "photoshop")|`photoshop`|
+|![postgresql](./img/p/postgresql/square-1-60.png "postgresql")|`postgresql`|![postman](./img/p/postman/square-1-60.png "postman")|`postman`|![powerbi](./img/p/powerbi/square-1-60.png "powerbi")|`powerbi`|![python](./img/p/python/square-1-60.png "python")|`python`|![python](./img/p/python/square-1-60.png "python")|`python`|
+|![rabbitmq](./img/r/rabbitmq/square-1-60.png "rabbitmq")|`rabbitmq`|![rails](./img/r/rails/square-1-60.png "rails")|`rails`|![reactjs](./img/r/reactjs/square-1-60.png "reactjs")|`reactjs`|![redux](./img/r/redux/square-1-60.png "redux")|`redux`|![redux](./img/r/redux/square-1-60.png "redux")|`redux`|
+|![rocketchat](./img/r/rocketchat/square-1-60.png "rocketchat")|`rocketchat`|![ruby](./img/r/ruby/square-1-60.png "ruby")|`ruby`|![saltstack](./img/s/saltstack/square-1-60.png "saltstack")|`saltstack`|![sass](./img/s/sass/square-1-60.png "sass")|`sass`|![sass](./img/s/sass/square-1-60.png "sass")|`sass`|
+|![slack](./img/s/slack/square-1-60.png "slack")|`slack`|![spring](./img/s/spring/square-1-60.png "spring")|`spring`|![sqlite](./img/s/sqlite/square-1-60.png "sqlite")|`sqlite`|![sqlserver](./img/s/sqlserver/square-1-60.png "sqlserver")|`sqlserver`|![sqlserver](./img/s/sqlserver/square-1-60.png "sqlserver")|`sqlserver`|
+|![sublimetext](./img/s/sublimetext/square-1-60.png "sublimetext")|`sublimetext`|![swagger](./img/s/swagger/square-1-60.png "swagger")|`swagger`|![swift](./img/s/swift/square-1-60.png "swift")|`swift`|![tanzu](./img/t/tanzu/square-1-60.png "tanzu")|`tanzu`|![tanzu](./img/t/tanzu/square-1-60.png "tanzu")|`tanzu`|
+|![travis-ci](./img/t/travis-ci/square-1-60.png "travis-ci")|`travis-ci`|![typescript](./img/t/typescript/square-1-60.png "typescript")|`typescript`|![unity](./img/u/unity/square-1-60.png "unity")|`unity`|![vagrant](./img/v/vagrant/square-1-60.png "vagrant")|`vagrant`|![vagrant](./img/v/vagrant/square-1-60.png "vagrant")|`vagrant`|
+|![vim](./img/v/vim/square-1-60.png "vim")|`vim`|![virtualbox](./img/v/virtualbox/square-1-60.png "virtualbox")|`virtualbox`|![vscode](./img/v/vscode/square-1-60.png "vscode")|`vscode`|![vuejs](./img/v/vuejs/square-1-60.png "vuejs")|`vuejs`|![vuejs](./img/v/vuejs/square-1-60.png "vuejs")|`vuejs`|
+|![webstorm](./img/w/webstorm/square-1-60.png "webstorm")|`webstorm`|![yarn](./img/y/yarn/square-1-60.png "yarn")|`yarn`|...|...|...|...|
 
-`front` `ui` `ux` `web` `forms` `interface`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![angular](img/frontend/angular/angular.png "angular")|`angular`|![angularjs](img/frontend/angularjs/angularjs.png "angularjs")|`angularjs`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|![bootstrap](img/frontend/bootstrap/bootstrap.png "bootstrap")|`bootstrap`|
-|![bower](img/frontend/bower/bower.png "bower")|`bower`|![css3](img/frontend/css3/css3.png "css3")|`css3`|![dart](img/frontend/dart/dart.png "dart")|`dart`|![dart](img/frontend/dart/dart.png "dart")|`dart`|
-|![django](img/frontend/django/django.png "django")|`django`|![emberjs](img/frontend/emberjs/emberjs.png "emberjs")|`emberjs`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|![grunt](img/frontend/grunt/grunt.png "grunt")|`grunt`|
-|![gulpjs](img/frontend/gulpjs/gulpjs.png "gulpjs")|`gulpjs`|![html5](img/frontend/html5/html5.png "html5")|`html5`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|![javascript](img/frontend/javascript/javascript.png "javascript")|`javascript`|
-|![materializecss](img/frontend/materializecss/materializecss.png "materializecss")|`materializecss`|![ml5js](img/frontend/ml5js/ml5js.png "ml5js")|`ml5js`|![ngrx](img/frontend/ngrx/ngrx.png "ngrx")|`ngrx`|![ngrx](img/frontend/ngrx/ngrx.png "ngrx")|`ngrx`|
-|![nodejs](img/frontend/nodejs/nodejs.png "nodejs")|`nodejs`|![npm](img/frontend/npm/npm.png "npm")|`npm`|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|![p5js](img/frontend/p5js/p5js.png "p5js")|`p5js`|
-|![rails](img/frontend/rails/rails.png "rails")|`rails`|![reactjs](img/frontend/reactjs/reactjs.png "reactjs")|`reactjs`|![redux](img/frontend/redux/redux.png "redux")|`redux`|![redux](img/frontend/redux/redux.png "redux")|`redux`|
-|![sass](img/frontend/sass/sass.png "sass")|`sass`|![typescript](img/frontend/typescript/typescript.png "typescript")|`typescript`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|![vuejs](img/frontend/vuejs/vuejs.png "vuejs")|`vuejs`|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![angular](square/frontend//angular.png "angular")|![angularjs](square/frontend//angularjs.png "angularjs")|![bootstrap](square/frontend//bootstrap.png "bootstrap")|![bower](square/frontend//bower.png "bower")|![css3](square/frontend//css3.png "css3")|![dart](square/frontend//dart.png "dart")|![dart](square/frontend//dart.png "dart")|
-|![django](square/frontend//django.png "django")|![emberjs](square/frontend//emberjs.png "emberjs")|![grunt](square/frontend//grunt.png "grunt")|![gulpjs](square/frontend//gulpjs.png "gulpjs")|![html5](square/frontend//html5.png "html5")|![javascript](square/frontend//javascript.png "javascript")|![javascript](square/frontend//javascript.png "javascript")|
-|![materializecss](square/frontend//materializecss.png "materializecss")|![ml5js](square/frontend//ml5js.png "ml5js")|![ngrx](square/frontend//ngrx.png "ngrx")|![nodejs](square/frontend//nodejs.png "nodejs")|![npm](square/frontend//npm.png "npm")|![p5js](square/frontend//p5js.png "p5js")|![p5js](square/frontend//p5js.png "p5js")|
-|![rails](square/frontend//rails.png "rails")|![reactjs](square/frontend//reactjs.png "reactjs")|![redux](square/frontend//redux.png "redux")|![sass](square/frontend//sass.png "sass")|![typescript](square/frontend//typescript.png "typescript")|![vuejs](square/frontend//vuejs.png "vuejs")|![vuejs](square/frontend//vuejs.png "vuejs")|
-|![yarn](square/frontend//yarn.png "yarn")|...|...|...|...|...|...|...|...|...|...|
-
-### :gear: Backend
-
-`back` `job` `api`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![go](img/backend/go/go.png "go")|`go`|![gradle](img/backend/gradle/gradle.png "gradle")|`gradle`|![graphql](img/backend/graphql/graphql.png "graphql")|`graphql`|![graphql](img/backend/graphql/graphql.png "graphql")|`graphql`|
-|![java](img/backend/java/java.png "java")|`java`|![kafka](img/backend/kafka/kafka.png "kafka")|`kafka`|![kotlin](img/backend/kotlin/kotlin.png "kotlin")|`kotlin`|![kotlin](img/backend/kotlin/kotlin.png "kotlin")|`kotlin`|
-|![maven](img/backend/maven/maven.png "maven")|`maven`|![python](img/backend/python/python.png "python")|`python`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|![rabbitmq](img/backend/rabbitmq/rabbitmq.png "rabbitmq")|`rabbitmq`|
-|![ruby](img/backend/ruby/ruby.png "ruby")|`ruby`|![spring](img/backend/spring/spring.png "spring")|`spring`|...|...|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![go](square/backend//go.png "go")|![gradle](square/backend//gradle.png "gradle")|![graphql](square/backend//graphql.png "graphql")|![java](square/backend//java.png "java")|![kafka](square/backend//kafka.png "kafka")|![kotlin](square/backend//kotlin.png "kotlin")|![kotlin](square/backend//kotlin.png "kotlin")|
-|![maven](square/backend//maven.png "maven")|![python](square/backend//python.png "python")|![rabbitmq](square/backend//rabbitmq.png "rabbitmq")|![ruby](square/backend//ruby.png "ruby")|![spring](square/backend//spring.png "spring")|...|...|
-
-### :iphone: Mobile
-
-`apps` `phone` `smart` `iphone` `store`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![android](img/mobile/android/android.png "android")|`android`|![app-store](img/mobile/app-store/app-store.png "app-store")|`app-store`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|![cordova](img/mobile/cordova/cordova.png "cordova")|`cordova`|
-|![flutter](img/mobile/flutter/flutter.png "flutter")|`flutter`|![google-play](img/mobile/google-play/google-play.png "google-play")|`google-play`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|![ionic](img/mobile/ionic/ionic.png "ionic")|`ionic`|
-|![ios](img/mobile/ios/ios.png "ios")|`ios`|![swift](img/mobile/swift/swift.png "swift")|`swift`|...|...|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![android](square/mobile//android.png "android")|![app-store](square/mobile//app-store.png "app-store")|![cordova](square/mobile//cordova.png "cordova")|![flutter](square/mobile//flutter.png "flutter")|![google-play](square/mobile//google-play.png "google-play")|![ionic](square/mobile//ionic.png "ionic")|![ionic](square/mobile//ionic.png "ionic")|
-|![ios](square/mobile//ios.png "ios")|![swift](square/mobile//swift.png "swift")|...|...|...|...|...|...|...|...|
-
-### :date: Database
-
-`data` `table` `index`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![couchdb](img/database/couchdb/couchdb.png "couchdb")|`couchdb`|![elasticsearch](img/database/elasticsearch/elasticsearch.png "elasticsearch")|`elasticsearch`|![h2](img/database/h2/h2.png "h2")|`h2`|![h2](img/database/h2/h2.png "h2")|`h2`|
-|![mariadb](img/database/mariadb/mariadb.png "mariadb")|`mariadb`|![mongodb](img/database/mongodb/mongodb.png "mongodb")|`mongodb`|![mysql](img/database/mysql/mysql.png "mysql")|`mysql`|![mysql](img/database/mysql/mysql.png "mysql")|`mysql`|
-|![oracle](img/database/oracle/oracle.png "oracle")|`oracle`|![postgresql](img/database/postgresql/postgresql.png "postgresql")|`postgresql`|![sqlite](img/database/sqlite/sqlite.png "sqlite")|`sqlite`|![sqlite](img/database/sqlite/sqlite.png "sqlite")|`sqlite`|
-|![sqlserver](img/database/sqlserver/sqlserver.png "sqlserver")|`sqlserver`|...|...|...|...|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![couchdb](square/database//couchdb.png "couchdb")|![elasticsearch](square/database//elasticsearch.png "elasticsearch")|![h2](square/database//h2.png "h2")|![mangodb](square/database//mangodb.png "mangodb")|![mariadb](square/database//mariadb.png "mariadb")|![mysql](square/database//mysql.png "mysql")|![mysql](square/database//mysql.png "mysql")|
-|![oracle](square/database//oracle.png "oracle")|![postgresql](square/database//postgresql.png "postgresql")|![sqlite](square/database//sqlite.png "sqlite")|![sqlserver](square/database//sqlserver.png "sqlserver")|...|...|...|...|
-
-### :hammer_and_wrench: Tools
-
-`ide` `software` `application` `cli`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![androidstudio](img/tools/androidstudio/androidstudio.png "androidstudio")|`androidstudio`|![atom](img/tools/atom/atom.png "atom")|`atom`|![bash](img/tools/bash/bash.png "bash")|`bash`|![bash](img/tools/bash/bash.png "bash")|`bash`|
-|![blender](img/tools/blender/blender.png "blender")|`blender`|![datagrip](img/tools/datagrip/datagrip.png "datagrip")|`datagrip`|![datastudio](img/tools/datastudio/datastudio.png "datastudio")|`datastudio`|![datastudio](img/tools/datastudio/datastudio.png "datastudio")|`datastudio`|
-|![dbeaver](img/tools/dbeaver/dbeaver.png "dbeaver")|`dbeaver`|![firebase](img/tools/firebase/firebase.png "firebase")|`firebase`|![gimp](img/tools/gimp/gimp.png "gimp")|`gimp`|![gimp](img/tools/gimp/gimp.png "gimp")|`gimp`|
-|![git](img/tools/git/git.png "git")|`git`|![github](img/tools/github/github.png "github")|`github`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|![gitlab](img/tools/gitlab/gitlab.png "gitlab")|`gitlab`|
-|![illustrator](img/tools/illustrator/illustrator.png "illustrator")|`illustrator`|![intellij](img/tools/intellij/intellij.png "intellij")|`intellij`|![kibana](img/tools/kibana/kibana.png "kibana")|`kibana`|![kibana](img/tools/kibana/kibana.png "kibana")|`kibana`|
-|![logstash](img/tools/logstash/logstash.png "logstash")|`logstash`|![mattermost](img/tools/mattermost/mattermost.png "mattermost")|`mattermost`|![notepad++](img/tools/notepad++/notepad++.png "notepad++")|`notepad++`|![notepad++](img/tools/notepad++/notepad++.png "notepad++")|`notepad++`|
-|![photoshop](img/tools/photoshop/photoshop.png "photoshop")|`photoshop`|![postman](img/tools/postman/postman.png "postman")|`postman`|![powerbi](img/tools/powerbi/powerbi.png "powerbi")|`powerbi`|![powerbi](img/tools/powerbi/powerbi.png "powerbi")|`powerbi`|
-|![rocketchat](img/tools/rocketchat/rocketchat.png "rocketchat")|`rocketchat`|![slack](img/tools/slack/slack.png "slack")|`slack`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|![sublimetext](img/tools/sublimetext/sublimetext.png "sublimetext")|`sublimetext`|
-|![swagger](img/tools/swagger/swagger.png "swagger")|`swagger`|![unity](img/tools/unity/unity.png "unity")|`unity`|![vim](img/tools/vim/vim.png "vim")|`vim`|![vim](img/tools/vim/vim.png "vim")|`vim`|
-|![virtualbox](img/tools/virtualbox/virtualbox.png "virtualbox")|`virtualbox`|![vscode](img/tools/vscode/vscode.png "vscode")|`vscode`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|![webstorm](img/tools/webstorm/webstorm.png "webstorm")|`webstorm`|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![androidstudio](square/tools//androidstudio.png "androidstudio")|![atom](square/tools//atom.png "atom")|![bash](square/tools//bash.png "bash")|![blender](square/tools//blender.png "blender")|![datagrip](square/tools//datagrip.png "datagrip")|![datastudio](square/tools//datastudio.png "datastudio")|![datastudio](square/tools//datastudio.png "datastudio")|
-|![dbeaver](square/tools//dbeaver.png "dbeaver")|![firebase](square/tools//firebase.png "firebase")|![gimp](square/tools//gimp.png "gimp")|![git](square/tools//git.png "git")|![github](square/tools//github.png "github")|![gitlab](square/tools//gitlab.png "gitlab")|![gitlab](square/tools//gitlab.png "gitlab")|
-|![illustrator](square/tools//illustrator.png "illustrator")|![intellij](square/tools//intellij.png "intellij")|![kibana](square/tools//kibana.png "kibana")|![linkedin](square/tools//linkedin.png "linkedin")|![logstash](square/tools//logstash.png "logstash")|![mattermost](square/tools//mattermost.png "mattermost")|![mattermost](square/tools//mattermost.png "mattermost")|
-|![notepad++](square/tools//notepad++.png "notepad++")|![photoshop](square/tools//photoshop.png "photoshop")|![postman](square/tools//postman.png "postman")|![powerbi](square/tools//powerbi.png "powerbi")|![rocketchat](square/tools//rocketchat.png "rocketchat")|![slack](square/tools//slack.png "slack")|![slack](square/tools//slack.png "slack")|
-|![sublimetext](square/tools//sublimetext.png "sublimetext")|![swagger](square/tools//swagger.png "swagger")|![unity](square/tools//unity.png "unity")|![vim](square/tools//vim.png "vim")|![virtualbox](square/tools//virtualbox.png "virtualbox")|![vscode](square/tools//vscode.png "vscode")|![vscode](square/tools//vscode.png "vscode")|
-|![webstorm](square/tools//webstorm.png "webstorm")|...|...|...|...|...|...|...|...|...|...|
-
-
-### :rocket: DevOps
-
-`dev` `deployment` `network` `container` `pod` `infrastructure`
-`ci` `cd` `pipeline`
-
-#### Logo
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![ansible](img/devops/ansible/ansible.png "ansible")|`ansible`|![artifactory](img/devops/artifactory/artifactory.png "artifactory")|`artifactory`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|![circleci](img/devops/circleci/circleci.png "circleci")|`circleci`|
-|![docker](img/devops/docker/docker.png "docker")|`docker`|![docker-compose](img/devops/docker-compose/docker-compose.png "docker-compose")|`docker-compose`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|![github-actions](img/devops/github-actions/github-actions.png "github-actions")|`github-actions`|
-|![gitlab-cicd](img/devops/gitlab-cicd/gitlab-cicd.png "gitlab-cicd")|`gitlab-cicd`|![harbor](img/devops/harbor/harbor.png "harbor")|`harbor`|![helm](img/devops/helm/helm.png "helm")|`helm`|![helm](img/devops/helm/helm.png "helm")|`helm`|
-|![heroku](img/devops/heroku/heroku.png "heroku")|`heroku`|![jenkins](img/devops/jenkins/jenkins.png "jenkins")|`jenkins`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|![kubernetes](img/devops/kubernetes/kubernetes.png "kubernetes")|`kubernetes`|
-|![nexus](img/devops/nexus/nexus.png "nexus")|`nexus`|![saltstack](img/devops/saltstack/saltstack.png "saltstack")|`saltstack`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|![tanzu](img/devops/tanzu/tanzu.png "tanzu")|`tanzu`|
-|![travis-ci](img/devops/travis-ci/travis-ci.png "travis-ci")|`travis-ci`|![vagrant](img/devops/vagrant/vagrant.png "vagrant")|`vagrant`|...|...|
-
-#### Square
-
-|logo|logo|logo|logo|logo|logo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![ansible](square/devops//ansible.png "ansible")|![artifactory](square/devops//artifactory.png "artifactory")|![circleci](square/devops//circleci.png "circleci")|![docker](square/devops//docker.png "docker")|![docker-compose](square/devops//docker-compose.png "docker-compose")|![github-actions](square/devops//github-actions.png "github-actions")|![github-actions](square/devops//github-actions.png "github-actions")|
-|![gitlab-cicd](square/devops//gitlab-cicd.png "gitlab-cicd")|![harbor](square/devops//harbor.png "harbor")|![helm](square/devops//helm.png "helm")|![heroku](square/devops//heroku.png "heroku")|![jenkins](square/devops//jenkins.png "jenkins")|![kubernetes](square/devops//kubernetes.png "kubernetes")|![kubernetes](square/devops//kubernetes.png "kubernetes")|
-|![nexus](square/devops//nexus.png "nexus")|![saltstack](square/devops//saltstack.png "saltstack")|![tanzu](square/devops//tanzu.png "tanzu")|![travis-ci](square/devops//travis-ci.png "travis-ci")|![vagrant](square/devops//vagrant.png "vagrant")|...|...|
-
-
-### :globe_with_meridians: Others
-
-|logo|name|logo|name|logo|name|
-|:--:|:---|:--:|:---|:--:|:---|
-|![aws](img/other/aws/aws.png "aws")|`aws`|![azure](img/other/azure/azure.png "azure")|`azure`|![googlecloud](img/other/googlecloud/googlecloud.png "googlecloud")|`googlecloud`|![googlecloud](img/other/googlecloud/googlecloud.png "googlecloud")|`googlecloud`|
-|![icloud](img/other/icloud/icloud.png "icloud")|`icloud`|...|...|...|...|
 
 ### :stop_sign: Legacy
 
