@@ -24,7 +24,7 @@ PATH="./img"
 OUTPUT="./table.md"
 
 LINE=""
-NB_COLS=4
+NB_COLS=3
 FOLDERS=0
 I=0
 J=0
@@ -63,8 +63,6 @@ for d in $PATH/*/ ; do
 
         # fetch letter's subfolders
         for e in $d* ; do
-
-            # /bin/mv $f "$e/logo-1-40.png"
 
             # remove full path and trailing slash
             NAME="$(/bin/basename $e)"
