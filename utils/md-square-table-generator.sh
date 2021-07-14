@@ -1,13 +1,5 @@
 #!/bin/bash -vx
 
-
-# # extract config.ini
-# file_name="${input##*/}"
-# # get .ini 
-# file_extension="${file_name##*.}"
-# # get config 
-# file="${file_name%.*}"
-
 # ========================================================================
 # name : md-table-generator.sh
 # description : Generate the .md table for each subfolders on $PATH
