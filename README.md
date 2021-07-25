@@ -5,21 +5,37 @@
 This [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) repo is on :construction: WIP for uploads and automation,
 links can be broken in futures versions, it is strongly recommended to waiting for tags :label: for safe using ! 
 
-Dedicated to host logo for reusability
+Currently version :  `0.0.1`
 
 ## :speech_balloon: Description
 
 Dedicated repository to host some images and logos.
+Squares type logo are available for now, several versions coming up soon (dimensions, colors, backgrounds, etc)
+
+### Square
 
 Available dimensions *(height-based)* :
-* `40px`
-* `80px`
-* `120px`
 
-Available types (depends on each logo) :
-* `full`
-* `logo only`
-* `text only`
+* `60px`
+
+Logo name file : 
+
+* `square-{x}-60.png` (where {x} is for differents versions)
+
+## :rocket: How to use
+
+* Select the latest available tag version
+
+* Copy the url
+
+* Enjoy it!
+
+## :newspaper: Roadmap
+
+- [] Automation, automation, automation! ([`github-actions`](https://github.com/features/actions))
+- [] Using [`github-pages`](https://pages.github.com/)
+- [] Make minimum 2 versions (Dark, light) for each logo
+- [] Looking for another formats
 
 ## :sparkles: Logos
 
