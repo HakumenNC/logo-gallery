@@ -32,10 +32,10 @@ Logo name file :
 
 ## :newspaper: Roadmap
 
-- [] Automation, automation, automation! ([`github-actions`](https://github.com/features/actions))
-- [] Using [`github-pages`](https://pages.github.com/)
-- [] Make minimum 2 versions (Dark, light) for each logo
-- [] Looking for another formats
+- [ ] Automation, automation, automation! ([`github-actions`](https://github.com/features/actions))
+- [ ] Using [`github-pages`](https://pages.github.com/)
+- [ ] Make minimum 2 versions (Dark, light) for each logo
+- [ ] Looking for another formats
 
 ## :sparkles: Logos
 
