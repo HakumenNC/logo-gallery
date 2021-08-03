@@ -3,6 +3,7 @@
 # ========================================================================
 # name : md-table-generator.sh
 # description : Generate the .md table for each subfolders on $PATH
+# DEPRECATED
 # ========================================================================
 
 
