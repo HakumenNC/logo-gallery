@@ -8,12 +8,15 @@
 
 #### VARIABLES
 
-# target folder path, ex : "img/devops"
+# target folder path, ex : "../img"
 # current dir : ${PWD##*/}
-PATH="./img"
+IMG_PATH="../img"
+
+# relative path
+RELATIVE_PATH="./img"
 
 # output .md file
-OUTPUT="./table.md"
+OUTPUT="../README.md"
 
 LINE=""
 NB_COLS=3
@@ -23,8 +26,10 @@ J=0
 
 #### MAIN
 
+/bin/cp ./main-content.md $OUTPUT
+
 # count folders
-for d in $PATH/*/ ; do
+for d in $IMG_PATH/*/ ; do
     if [ "$(/bin/ls -A $d)" ]; then
         for e in $d* ; do
             FOLDERS=$((FOLDERS+1))
@@ -38,16 +43,17 @@ for c in  $(/bin/seq 1 $NB_COLS) ; do
     cellAlign="${cellAlign}:--:|:---|"
 done
 
-echo "|$header" > $OUTPUT
+
+echo "" >> $OUTPUT
+echo "|$header" >> $OUTPUT
 echo "|$cellAlign" >> $OUTPUT
 
 # fetch letter folders
-for d in $PATH/*/ ; do
+for d in $IMG_PATH/*/ ; do
 
      # remove full path and trailing slash
      letterFolder="${d%?}"
      letterFolder="${letterFolder##*/}"
-
      # echo "current letter folder : $letterFolder"
 
     # if 
@@ -60,7 +66,7 @@ for d in $PATH/*/ ; do
             NAME="$(/bin/basename $e)"
 
             # apply .md table template
-            ITEM="![$NAME]($e/square-1-60.png \"$NAME\")|\`$NAME\`"
+            ITEM="![$NAME]($RELATIVE_PATH/$letterFolder/$NAME/square-1-60.png \"$NAME\")|\`$NAME\`"
 
             J=$((J+1))
 
