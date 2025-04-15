@@ -24,6 +24,9 @@ FOLDERS=0
 I=0
 J=0
 
+SQUARE_60="square-1-60.png"
+RECTANGLE_30="rectangle-1-30.png"
+
 #### MAIN
 
 /bin/cp ./main-content.md $OUTPUT
@@ -66,7 +69,16 @@ for d in $IMG_PATH/*/ ; do
             NAME="$(/bin/basename $e)"
 
             # apply .md table template
-            ITEM="![$NAME]($RELATIVE_PATH/$letterFolder/$NAME/square-1-60.png \"$NAME\")|\`$NAME\`"
+            ITEM="![$NAME]($RELATIVE_PATH/$letterFolder/$NAME/$SQUARE_60 \"$NAME\")"
+
+            # add rectangle image if exists
+            if [ -f "$IMG_PATH/$letterFolder/$NAME/$RECTANGLE_30" ]; then
+                ITEM="$ITEM <br /> ![$NAME]($RELATIVE_PATH/$letterFolder/$NAME/$RECTANGLE_30 \"$NAME\")"
+            fi
+
+            # add name col
+            ITEM="$ITEM |\`$NAME\`"
+
 
             J=$((J+1))
 
