@@ -6,7 +6,7 @@
 
 This [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) repo is on :construction: WIP for uploads and automation.
 
-Currently version :  `0.1.1`
+Currently version :  `v0.1.3`
 
 Dedicated repository to host some images and logos.
 Squares type logo are available for now, several versions coming up soon (dimensions, colors, backgrounds, etc)
