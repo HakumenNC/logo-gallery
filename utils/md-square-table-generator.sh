@@ -19,7 +19,7 @@ RELATIVE_PATH="./img"
 OUTPUT="../README.md"
 
 LINE=""
-NB_COLS=3
+NB_COLS=4
 FOLDERS=0
 I=0
 J=0
@@ -42,8 +42,8 @@ done
 
 # header
 for c in  $(/bin/seq 1 $NB_COLS) ; do
-    header="${header}logo|name|"
-    cellAlign="${cellAlign}:--:|:---|"
+    header="${header}logo|"
+    cellAlign="${cellAlign}:--:|"
 done
 
 
@@ -77,7 +77,7 @@ for d in $IMG_PATH/*/ ; do
             fi
 
             # add name col
-            ITEM="$ITEM |\`$NAME\`"
+            ITEM="$ITEM <br /> \`$NAME\`"
 
 
             J=$((J+1))
