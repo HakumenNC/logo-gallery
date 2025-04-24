@@ -15,14 +15,15 @@ Squares type logo are available for now, several versions coming up soon (dimens
 
 Available dimensions *(height-based)* :
 
-* `square-{x}-60.png` (where {x} is for differents versions)
+* `square-{x}-60.png`
+* `rectangle-{x}-30.png`
+
+ (where {x} is for differents versions)
 
 ## :rocket: How to use
 
 1. Select the latest available tag version
-
 2. Copy the url
-
 3. Enjoy it!
 
 ## :newspaper: Roadmap
@@ -32,15 +33,12 @@ Available dimensions *(height-based)* :
 * [ ] Make minimum 2 versions (Dark, light) for each logo
 * [ ] Looking for another formats
 
-### :stop_sign: Legacy
-
-Deprecated
-
-URL links will be removed in next versions, please use logos in above sections.
-
-![docker](img/docker/docker.png "docker")
-![docker-compose](img/docker-compose/docker-compose.png "docker-compose")
-![elk](img/elk/elk.png "elk")
-![schemacrawler](img/schemacrawler/schemacrawler.png "elk")
+> [!CAUTION]
+> Deprecated Advises about risks or negative outcomes of certain actions.
+> URL links will be removed in next versions, please use logos in above sections. \
+> ![docker](img/docker/docker.png "docker")
+> ![docker-compose](img/docker-compose/docker-compose.png "docker-compose")
+> ![elk](img/elk/elk.png "elk")
+> ![schemacrawler](img/schemacrawler/schemacrawler.png "elk")
 
 ### :sparkles: Logos
