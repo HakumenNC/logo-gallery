@@ -1,0 +1,5 @@
+code: artifactory
+label: Artifactory
+url: https://jfrog.com/artifactory
+comments:
+keywords: jfrog, dependency, proxy, cache, artifact, package, container
