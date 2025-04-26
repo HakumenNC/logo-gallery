@@ -1,6 +1,6 @@
 # logo-gallery
 
-## :speech_balloon: Description
+## Description
 
 :mega: Hi there :wave: !
 
@@ -11,22 +11,29 @@ Currently version :  `v0.1.5`
 Dedicated repository to host some images and logos.
 Squares type logo are available for now, several versions coming up soon (dimensions, colors, backgrounds, etc)
 
-### Square
+## Formats
 
 Available dimensions *(height-based)* :
 
+### Square
+
 * `square-{x}-60.png`
+
+(where {x} is for differents versions)
+
+### Rectangle
+
 * `rectangle-{x}-30.png`
 
  (where {x} is for differents versions)
 
-## :rocket: How to use
+## How to use
 
 1. Select the latest available tag version
 2. Copy the url
 3. Enjoy it!
 
-## :newspaper: Roadmap
+## Roadmap
 
 * [ ] Automation, automation, automation! ([`github-actions`](https://github.com/features/actions))
 * [ ] Using [`github-pages`](https://pages.github.com/)
@@ -34,11 +41,16 @@ Available dimensions *(height-based)* :
 * [ ] Looking for another formats
 
 > [!CAUTION]
-> Deprecated Advises about risks or negative outcomes of certain actions.
-> URL links will be removed in next versions, please use logos in above sections. \
+> Deprecated \ Advises about risks or negative outcomes of certain actions.
+> URL links will be removed in next versions, please use logos in above sections.
+>
 > ![docker](img/docker/docker.png "docker")
 > ![docker-compose](img/docker-compose/docker-compose.png "docker-compose")
 > ![elk](img/elk/elk.png "elk")
 > ![schemacrawler](img/schemacrawler/schemacrawler.png "elk")
 
-### :sparkles: Logos
+## Requests
+
+Some brands are missing? Feel free to create the related issue. 
+
+## Logos
