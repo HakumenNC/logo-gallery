@@ -17,7 +17,7 @@ row = ""
 for path, subdirs, files in os.walk(RELATIVE_IMG_PATH):
     if FileUtils.is_brand_folder(path):
         itemIndex += 1
-        
+
         if colIndex == 0: row = "|"
 
         row += f"{MarkdownUtils.build_brand_item(path)}|"
