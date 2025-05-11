@@ -3,7 +3,7 @@ import yaml
 
 from fileutils import FileUtils
 
-NB_COLS = 4
+NB_COLS = 3
 SQUARE_60 = 'square-1-60.png'
 RECTANGLE_30 = 'rectangle-1-30.png'
 
