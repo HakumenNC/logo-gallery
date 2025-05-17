@@ -32,7 +32,7 @@ Available dimensions *(height-based)* :
 
 ## Sets
 
-<img src="./img/m/microsoft/square-1-60.png" align="middle" height="20" > `Microsoft` |
+<img src="./img/m/microsoft/square-1-60.png" height="20" > Microsoft |
 <img src="./img/a/apple/square-1-60.png" style="vertical-align:middle" height="21" > `Apple` |
 <img src="./img/l/linux/square-1-60.png" style="vertical-align:middle" height="21" > `Linux` |
 <img src="./img/u/ubuntu/square-1-60.png" style="vertical-align:middle" height="21" > `Canonical` |
