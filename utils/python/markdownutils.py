@@ -34,6 +34,9 @@ class MarkdownUtils:
             return f"{result} <br /> {props['label']} \| [website]({props['url']})"
     
     @staticmethod
-    def _get_img(path, format):
-        p = FileUtils.to_absolute_path(path + os.sep + format)
+    def _get_img(path, format, toAbsolute=True):
+        if toAbsolute == False:
+            p = path + os.sep + format
+        else:
+            p = FileUtils.to_absolute_path(path + os.sep + format)
         return f'![{os.path.basename(path)}]({FileUtils.convert_path_to_posix(p)} "{os.path.basename(path)}")'
