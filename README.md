@@ -30,27 +30,21 @@ Available dimensions *(height-based)* :
 * [ ] Make minimum 2 versions (Dark, light) for each logo
 * [ ] Looking for another formats
 
-## Sets
-
-<img src="./img/m/microsoft/square-1-60.png" style="vertical-align:middle" height="21" > `Microsoft` |
-<img src="./img/a/apple/square-1-60.png" style="vertical-align:middle" height="21" > `Apple` |
-<img src="./img/l/linux/square-1-60.png" style="vertical-align:middle" height="21" > `Linux` |
-<img src="./img/u/ubuntu/square-1-60.png" style="vertical-align:middle" height="21" > `Canonical` |
-<img src="./img/m/mozilla/square-1-60.png" style="vertical-align:middle" height="21" > `Mozilla` | ... coming soon
-
 ## Requests
 
 Some brands are missing? Feel free to create the related issue. 
 
-## Deprecated
+## Sets
 
-Advises about risks or negative outcomes of certain actions.
-URL links will be removed in next versions, please use logos in above sections.
+![coding](./sets/coding/square-1-60.png "coding")
+![database](./sets/database/square-1-60.png "database")
+![dataviz](./sets/dataviz/square-1-60.png "dataviz")
+![cloud](./sets/cloud/square-1-60.png "cloud")
+![ai](./sets/ai/square-1-60.png "ai")
+![webbrowser](./sets/webbrowser/square-1-60.png "webbrowser")
+![socialnetwork](./sets/socialnetwork/square-1-60.png "socialnetwork")
 
-![docker](img/docker/docker.png "docker")
-![docker-compose](img/docker-compose/docker-compose.png "docker-compose")
-![elk](img/elk/elk.png "elk")
-![schemacrawler](img/schemacrawler/schemacrawler.png "elk")
+... coming soon
 
 ## Logos
 |logo|logo|logo|
