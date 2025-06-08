@@ -1,0 +1,34 @@
+code: application
+label: Application
+comments:
+logos:
+  - androidstudio
+  - blender
+  - canonical
+  - datagrip
+  - dbeaver
+  - discord
+  - filezilla
+  - forticlient
+  - illustrator
+  - intellij
+  - gimp
+  - notepad++
+  - photoshop
+  - remmina
+  - slack
+  - sublimetext
+  - teams
+  - thunderbird
+  - unity
+  - unrealengine
+  - vscode
+  - webstorm
+  - atom
+  - office365
+  - outlook
+  - appstore
+  - googleplay
+  - postman
+  - rocketchat
+  - o3de

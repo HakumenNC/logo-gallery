@@ -1,0 +1,14 @@
+code: webbrowser
+label: Web browser
+comments:
+logos:
+  - firefox
+  - edge
+  - chrome
+  - safari
+  - brave
+  - opera
+  - operagx
+  - vivaldi
+  - arc
+  - zenbrowser

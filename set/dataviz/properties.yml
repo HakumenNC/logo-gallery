@@ -1,0 +1,10 @@
+code: dataviz
+label: Dataviz
+comments:
+logos:
+  - datastudio
+  - pandas
+  - plotly
+  - powerbi
+  - seaborn
+  - matplotlib

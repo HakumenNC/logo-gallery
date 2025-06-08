@@ -1,0 +1,17 @@
+code: database
+label: Database
+comments:
+logos:
+  - oracle
+  - sqlserver
+  - postgresql
+  - couchdb
+  - sqlite
+  - elasticsearch
+  - firebase
+  - h2
+  - mongodb
+  - duckdb
+  - cockroachdb
+  - mariadb
+  - mysql

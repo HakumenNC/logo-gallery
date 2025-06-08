@@ -1,0 +1,9 @@
+code: cloud
+label: Cloud
+comments:
+logos:
+  - googlecloud
+  - azure
+  - icloud
+  - aws
+  - heroku

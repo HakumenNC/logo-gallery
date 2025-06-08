@@ -1,0 +1,16 @@
+code: application
+label: Application
+comments:
+logos:
+  - centos
+  - debian
+  - fedora
+  - linux
+  - linuxmint
+  - mxlinux
+  - windows10
+  - windows11
+  - ios
+  - macos
+  - android
+  - ubuntu

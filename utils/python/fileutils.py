@@ -2,9 +2,16 @@ import os
 import yaml
 
 OUTPUT_FILE = f"..{os.sep}..{os.sep}README.md"
-RELATIVE_IMG_PATH = f"..{os.sep}..{os.sep}img"
-ABSOLUTE_IMG_PATH = f".{os.sep}img"
+OUTPUT_SETS_FILE = f"..{os.sep}..{os.sep}sets.md"
 PROPERTIES_ITEM_FILE = 'properties.yml'
+
+IMG_FOLDER = "img"
+RELATIVE_IMG_PATH = f"..{os.sep}..{os.sep}{IMG_FOLDER}"
+ABSOLUTE_IMG_PATH = f".{os.sep}{IMG_FOLDER}"
+
+SET_FOLDER = "set"
+RELATIVE_SET_PATH = f"..{os.sep}..{os.sep}{SET_FOLDER}"
+ABSOLUTE_SET_PATH = f".{os.sep}{SET_FOLDER}"
 
 class FileUtils:
 
@@ -25,7 +32,8 @@ class FileUtils:
     
     @staticmethod
     def to_absolute_path(path):
-        return path.replace(RELATIVE_IMG_PATH, ABSOLUTE_IMG_PATH)
+        if IMG_FOLDER in path: return path.replace(RELATIVE_IMG_PATH, ABSOLUTE_IMG_PATH)
+        else: return path.replace(RELATIVE_SET_PATH, ABSOLUTE_SET_PATH)
     
     @staticmethod
     def get_properties_item(path):
@@ -34,4 +42,4 @@ class FileUtils:
             with open(p, 'r') as f:
                 return yaml.safe_load(f)
         else:
-            return None  
+            return None

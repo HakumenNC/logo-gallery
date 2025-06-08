@@ -10,10 +10,12 @@ Squares type logo are available for now, several versions coming up soon (dimens
 
 Available dimensions *(height-based)* :
 
-|type|name|example|
-|:--:|:--|:--:|
-|Square|`square-{x}-60.png`|![android](./img/g/github/square-1-60.png "android")|
-|Rectangle|`rectangle-{x}-30.png`|![android](./img/g/github/rectangle-1-30.png "android")|
+|type|name|example|comments|
+|:--:|:--|:--:|:--|
+|Square|`square-{x}-60.png`|![github](./img/g/github/square-1-60.png "github")|will be replaced by `square-b-{x}-60.png`|
+|Rectangle|`rectangle-{x}-30.png`|![github](./img/g/github/rectangle-1-30.png "github")|will be replaced by `rectangle-b-{x}-40.png`|
+|Square|`square-b-{x}-60.png`|![github](./img/g/github/square-b-1-60.png "github")|...|
+|Rectangle|`rectangle-b-{x}-40.png`|![github](./img/g/github/rectangle-b-1-40.png "github")|...|
 
 (where {x} is for differents versions)
 
@@ -32,11 +34,17 @@ Available dimensions *(height-based)* :
 
 ## Sets
 
-<img src="./img/m/microsoft/square-1-60.png" style="vertical-align:middle" height="21" > `Microsoft` |
-<img src="./img/a/apple/square-1-60.png" style="vertical-align:middle" height="21" > `Apple` |
-<img src="./img/l/linux/square-1-60.png" style="vertical-align:middle" height="21" > `Linux` |
-<img src="./img/u/ubuntu/square-1-60.png" style="vertical-align:middle" height="21" > `Canonical` |
-<img src="./img/m/mozilla/square-1-60.png" style="vertical-align:middle" height="21" > `Mozilla` | ... coming soon
+Logos grouped by themes to improve vizualisations and reorganisation
+
+![coding](./set/coding/square-1-60.png "coding")
+![database](./set/database/square-1-60.png "database")
+![dataviz](./set/dataviz/square-1-60.png "dataviz")
+![cloud](./set/cloud/square-1-60.png "cloud")
+![ai](./set/ai/square-1-60.png "ai")
+![webbrowser](./set/webbrowser/square-1-60.png "webbrowser")
+![socialnetwork](./set/socialnetwork/square-1-60.png "socialnetwork")
+
+... [coming soon](./sets.md)
 
 ## Requests
 

@@ -1,16 +1,18 @@
 import os
 import yaml
 
-from fileutils import FileUtils
+from fileutils import FileUtils, ABSOLUTE_IMG_PATH, RELATIVE_IMG_PATH
 
 NB_COLS = 3
 SQUARE_60 = 'square-1-60.png'
 RECTANGLE_30 = 'rectangle-1-30.png'
+SQUARE_B_60 = 'square-b-1-60.png'
+RECTANGLE_B_40 = 'rectangle-b-1-40.png'
 
 class MarkdownUtils:
 
     @staticmethod
-    def build_headers():
+    def build_gallery_headers():
         headerLabel = cellAlign = "|"
         
         for i in range(0, NB_COLS):
@@ -21,9 +23,18 @@ class MarkdownUtils:
     
     @staticmethod
     def build_brand_item(path):
-        result = MarkdownUtils._get_img(path, SQUARE_60)
+        result = ""
+        if os.path.exists(path + os.sep + SQUARE_60):
+            result += MarkdownUtils._get_img(path, SQUARE_60)
+
+        if os.path.exists(path + os.sep + SQUARE_B_60):
+            result += f' {MarkdownUtils._get_img(path, SQUARE_B_60)}'
+
         if os.path.exists(path + os.sep + RECTANGLE_30):
-            result += f' <br /> {MarkdownUtils._get_img(path, RECTANGLE_30)}'
+            result += f' <br />{MarkdownUtils._get_img(path, RECTANGLE_30)}'
+        
+        if os.path.exists(path + os.sep + RECTANGLE_B_40):
+            result += f' <br />{MarkdownUtils._get_img(path, RECTANGLE_B_40)}'
 
         result += f' <br /> `{os.path.basename(path)}`'
 
@@ -40,3 +51,20 @@ class MarkdownUtils:
         else:
             p = FileUtils.to_absolute_path(path + os.sep + format)
         return f'![{os.path.basename(path)}]({FileUtils.convert_path_to_posix(p)} "{os.path.basename(path)}")'
+    
+    @staticmethod
+    def _get_img_by_code(code, format):
+        p = ABSOLUTE_IMG_PATH + os.sep + code[0] + os.sep + code + os.sep + format
+        return f'![{code}]({FileUtils.convert_path_to_posix(p)} "{code}")'
+    
+    @staticmethod
+    def _get_img_by_code(code, format, formatIfNull=None):
+        basePath = RELATIVE_IMG_PATH + os.sep + code[0] + os.sep + code + os.sep
+        exist = os.path.exists(basePath + os.sep + format)
+        path = ''
+        if exist:
+            path = ABSOLUTE_IMG_PATH + os.sep + code[0] + os.sep + code + os.sep + format
+        else:
+            path = ABSOLUTE_IMG_PATH + os.sep + code[0] + os.sep + code + os.sep + formatIfNull
+
+        return f'![{code}]({FileUtils.convert_path_to_posix(path)} "{code}")'
