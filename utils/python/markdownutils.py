@@ -24,17 +24,8 @@ class MarkdownUtils:
     @staticmethod
     def build_brand_item(path):
         result = ""
-        if os.path.exists(path + os.sep + SQUARE_60):
-            result += MarkdownUtils._get_img(path, SQUARE_60)
-
-        if os.path.exists(path + os.sep + SQUARE_B_60):
-            result += f' {MarkdownUtils._get_img(path, SQUARE_B_60)}'
-
-        if os.path.exists(path + os.sep + RECTANGLE_30):
-            result += f' <br />{MarkdownUtils._get_img(path, RECTANGLE_30)}'
-        
-        if os.path.exists(path + os.sep + RECTANGLE_B_40):
-            result += f' <br />{MarkdownUtils._get_img(path, RECTANGLE_B_40)}'
+        result += MarkdownUtils._get_img_by_code(os.path.basename(path), SQUARE_B_60, SQUARE_60)
+        result += f' <br />{MarkdownUtils._get_img_by_code(os.path.basename(path), RECTANGLE_B_40, RECTANGLE_30)}'
 
         result += f' <br /> `{os.path.basename(path)}`'
 
