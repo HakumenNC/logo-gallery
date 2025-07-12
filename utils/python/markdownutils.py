@@ -16,7 +16,7 @@ class MarkdownUtils:
         headerLabel = cellAlign = "|"
         
         for i in range(0, NB_COLS):
-            headerLabel += "logo|"
+            headerLabel += "|"
             cellAlign += ":--:|"
         
         return f"{headerLabel}\n{cellAlign}\n"
@@ -29,7 +29,8 @@ class MarkdownUtils:
 
         result += f' <br /> `{os.path.basename(path)}`'
 
-        props = FileUtils.get_properties_item(path)
+        # props = FileUtils.get_properties_item(path)
+        props = None
         if props is None:
             return result
         else:

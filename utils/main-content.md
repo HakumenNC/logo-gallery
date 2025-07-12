@@ -21,7 +21,7 @@ Available dimensions *(height-based)* :
 
 ## How to use
 
-1. Select the latest available tag version : `v0.2.9`
+1. Select the latest available tag version : `v0.2.10`
 2. Copy the url
 3. Enjoy it!
 
